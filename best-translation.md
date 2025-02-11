@@ -1432,7 +1432,7 @@ We couldn’t burn a disk for *Z.O.E* today either. Frustrated, I played the "De
 
 *Tapestry of Spies* wasn't interesting. I'm disappointed, especially since *Point of Impact* was so good.
 
-## November 7, 1999 (Sunday)
+## November 7, 2000 (Sunday)
 
 My stomach is acting up again. For the past month, I’ve had terrible constipation, and now I’m getting stomach pains. It’s around the left side of my abdomen. If it drags on like it did before, it’ll be tough. I try not to think about it too much, but it’s still on my mind.
 
@@ -1444,7 +1444,7 @@ Even Hara-san, who almost never plays games, managed to clear it on Very Easy mo
 
 Lip-syncing has started to be added to the polygon cutscene. Just adding facial expressions and lip movements makes a big difference. Now we need to work on eye movements and blinking. How much we can do will depend on time. The Cypher is also looking good.
 
-## November 9, 1999 (Tuesday)
+## November 9, 2000 (Tuesday)
 
 I've had a stomachache since morning. It's around the area below my left navel. The same spot hurts. It hurts even when I press on it with my finger.
 
